@@ -1,0 +1,15 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>ea41fbd4-8691-4b67-aef1-12fc35225959</FileID>
+  <ProjectType>0</ProjectType>
+  <RememberPowerShellVersion>True</RememberPowerShellVersion>
+  <PowerShellVersion>Local Machine - PowerShell V5 (64 Bit)</PowerShellVersion>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="1">.gitignore</File>
+    <File Build="0" ReferenceFunction="Show-frmWizard_psf">frmWizard.psf</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Globals_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-SetupWizard_psf">SetupWizard.psf</File>
+  </Files>
+</Project>
