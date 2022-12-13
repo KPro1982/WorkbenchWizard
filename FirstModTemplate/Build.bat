@@ -1,1 +1,1 @@
-start /D "WB_ADDONBUILDERFOLDER" addonbuilder.exe "P:\FirstMod" WB_PACKEDMOD\addons -clear -project=P:  
+start /D "WB_ADDONBUILDERFOLDER" addonbuilder.exe "P:\FirstMod" "WB_PACKEDMOD\addons" -clear -project=P:  
